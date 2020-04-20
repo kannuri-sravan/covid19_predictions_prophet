@@ -1,5 +1,7 @@
 # Data Scientist Udacity Capstone Project
 
+[Blog](https://medium.com/me/stats/post/4d734ce94a7e)
+
 ### Covid-19 cases predictions
 ### Sravan Kumar Kannuri
 ### April 19,2020
